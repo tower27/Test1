@@ -5,5 +5,5 @@ Oh yaeh
 
 Eine Ergänzung
 
-Branch 1  ....
+Branch 1  ....  weniger Punkte
  
